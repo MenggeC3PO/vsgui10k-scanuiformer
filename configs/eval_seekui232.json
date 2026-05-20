@@ -1,0 +1,9 @@
+{
+  "eval_name": "seekui232",
+  "trials_path": "data/trials_official_with_validation.jsonl.gz",
+  "image_dir": "data/vsgui10k-images",
+  "seg_root": "data/segmentation",
+  "target_present_only": true,
+  "output_dir": "outputs/stage4H_uionly4_strong_alltype_continue_e120_from_e80_last",
+  "split_json_path": "configs/splits/seekui232_split.json"
+}

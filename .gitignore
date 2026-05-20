@@ -1,0 +1,46 @@
+# Raw dataset
+data/
+__MACOSX/
+
+# Model checkpoints and experiment outputs
+outputs/
+logs/
+*.pt
+*.pth
+*.ckpt
+*.out
+*.err
+
+# Large generated preprocessing outputs
+trials_official_with_validation.jsonl.gz
+validation_debug/
+debug_official_with_validation/
+dataset_structure_check/
+trial_version1/
+
+# Generated example debug images
+example_result/debug_official_with_validation/
+
+# Segmentation visualization samples
+seg_viz_samples_auto/
+
+# Sanity check files
+sanity_check_vsgui.py
+sanity_report.json
+sanity_report_old.json
+sanity_validation_stats.json
+preprocess_validation_stats.json
+validation_report.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
