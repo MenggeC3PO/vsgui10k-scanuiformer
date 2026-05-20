@@ -3,7 +3,7 @@
 ScanUIFormer is an autoregressive model for predicting target-directed human scanpaths on graphical user interfaces. This repository contains the VSGUI10K preprocessing scripts, model code, training configs, evaluation scripts, and visualization utilities used in our thesis project.
 
 <p align="center">
-  <img src="assets/architecture_overview.png" width="850"/>
+  <img src="assets/design-overview.png" width="850"/>
 </p>
 
 ## Highlights
