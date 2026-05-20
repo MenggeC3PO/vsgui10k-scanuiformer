@@ -13,14 +13,6 @@ ScanUIFormer is an autoregressive model for predicting target-directed human sca
 - Evaluation on both an internal all-type split and a SeekUI-aligned 232-sample subset
 - Rollout-based metrics and qualitative scanpath visualizations
 
-## Qualitative Example
-
-<p align="center">
-  <img src="assets/visual_good.png" width="620"/>
-</p>
-
-The green box marks the target, the dashed yellow box marks the target margin, the blue line shows the human scanpath, and the red line shows the predicted rollout.
-
 ## Repository Structure
 
 ```text
