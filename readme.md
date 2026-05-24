@@ -1,4 +1,4 @@
-# ScanUIFormer: GUI Visual Search Scanpath Prediction
+# ScanUIFormer: Autoregressive-based Visual Search Scanpath Generator
 ## Motivation
 When people search for something on a screen, their eyes naturally move between UI elements shaped by tasks and layout. Predicting these patterns can help improve UI evaluation, accessibility, and the design of intelligent UI agents. However, many recent approaches, such as SeekUI, depend on large vision–language models that are computationally expensive for lightweight systems.
 
